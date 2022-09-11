@@ -96,6 +96,10 @@
 
         git merge branching
 
-## Delete branch
+## Удаление веток
+
+Чтобы удалить ветку требуется ввести команду:
+
+    git branch -d <branch_to_delete>
 
     

@@ -95,4 +95,7 @@
 * В "branch-name" указать ветку которую хотим перенести, например:
 
         git merge branching
+
+## Delete branch
+
     
